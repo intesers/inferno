@@ -1,13 +1,7 @@
 @keyframes animate {
   0% {
-    background-position: top; }
-  30% {
-    background-position: bottom; }
-  50% {
-    background-position: center; }
-  70% {
-    background-position: left 50px top 10px; }
+    background-position: left 0px top 600px; }
   100% {
-    background-position: right 300px bottom 10px; } }
+    background-position: left 0px top 0px; } }
 
 /*# sourceMappingURL=keyframes.css.map */

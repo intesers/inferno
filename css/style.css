@@ -24,19 +24,13 @@ body {
     -moz-background-clip: text;
     -o-background-clip: text;
     -ms-background-clip: text;
-    animation: animate 15s linear infinite; }
+    animation: animate 8s linear infinite; }
 
 @keyframes animate {
   0% {
-    background-position: top; }
-  30% {
-    background-position: bottom; }
-  50% {
-    background-position: center; }
-  70% {
-    background-position: left 50px top 10px; }
+    background-position: left 0px top 600px; }
   100% {
-    background-position: right 300px bottom 10px; } }
+    background-position: left 0px top 0px; } }
 @media only screen and (max-width: 640px) {
   .container h1 {
     font-size: 8em; } }

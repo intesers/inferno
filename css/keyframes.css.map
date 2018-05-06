@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,kBAsBC;EArBG,EAAE;IACA,mBAAmB,EAAE,GAAG;EAG3B,GAAG;IACA,mBAAmB,EAAE,MAAM;EAG9B,GAAG;IACF,mBAAmB,EAAE,MAAM;EAG5B,GAAG;IACF,mBAAmB,EAAE,kBAAkB;EAGxC,IAAI;IACH,mBAAmB,EAAE,uBAAuB",
+"mappings": "AAAA,kBAOC;EAND,EAAE;IACF,mBAAmB,EAAE,kBAAkB;EAEvC,IAAI;IACJ,mBAAmB,EAAE,gBAAgB",
 "sources": ["../sass/keyframes.scss"],
 "names": [],
 "file": "keyframes.css"
