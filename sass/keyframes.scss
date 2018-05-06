@@ -1,0 +1,23 @@
+@keyframes animate {
+    0%{
+      background-position: top;
+    }
+
+  	30%{
+      background-position: bottom;
+  }
+
+  	50%{
+  		background-position: center;
+  	}
+
+  	70%{
+  		background-position: left 50px top 10px;
+  	}
+
+  	100%{
+  		background-position: right 300px bottom 10px;
+
+  	}
+
+}

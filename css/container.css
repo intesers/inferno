@@ -1,0 +1,28 @@
+body {
+  background: #fff; }
+
+.container {
+  max-width: 1152px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; }
+  .container h1 {
+    color: rgba(0, 0, 0, 0.1);
+    align-items: center;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 10em;
+    background-image: url(../image/fire.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -o-background-clip: text;
+    -ms-background-clip: text;
+    animation: animate 15s linear infinite; }
+
+/*# sourceMappingURL=container.css.map */

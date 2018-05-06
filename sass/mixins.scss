@@ -1,0 +1,7 @@
+@mixin bg_clip{
+	background-clip: text;	
+	-webkit-background-clip:text;
+	-moz-background-clip:text;
+	-o-background-clip:text;
+	-ms-background-clip: text;
+}
